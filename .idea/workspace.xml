@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6360c557-ea3c-44a8-8246-5a78e06a9cb9" name="Changes" comment="" />
+    <list default="true" id="6360c557-ea3c-44a8-8246-5a78e06a9cb9" name="Changes" comment="tirei o &quot;é&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraPorcent.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraPorcent.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -25,26 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Informações.executor": "Run",
-    "Python.Projeto1.executor": "Run",
-    "Python.batimentos.executor": "Run",
-    "Python.calculSimples.executor": "Run",
-    "Python.calculadoraPorcent.executor": "Run",
-    "Python.calcularDelta.executor": "Run",
-    "Python.classIdade.executor": "Run",
-    "Python.criandoperdonagem.executor": "Run",
-    "Python.cupom.executor": "Run",
-    "Python.ex1.executor": "Run",
-    "Python.lista.executor": "Run",
-    "Python.nomecompleto.executor": "Run",
-    "Python.preferencias.executor": "Run",
-    "Python.valMaior.executor": "Run",
-    "Python.verif_Idade.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Informações.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Projeto1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.batimentos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculSimples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculadoraPorcent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcularDelta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classIdade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.criandoperdonagem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cupom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nomecompleto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.preferencias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.valMaior.executor&quot;: &quot;Run&quot;,
+    &quot;Python.verif_Idade.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/julho/OneDrive/Área de Trabalho/gits-henriques&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\julho\PycharmProjects\PythonProject1" />
@@ -66,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1773101259817</updated>
     </task>
+    <task id="LOCAL-00001" summary="tirei o &quot;é&quot;">
+      <option name="closed" value="true" />
+      <created>1773784830758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773784830758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tirei o &quot;é&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="tirei o &quot;é&quot;" />
   </component>
 </project>
